@@ -1,6 +1,6 @@
 # Bank menagment system
 
-This project simulates how a library operates.
+This project simulates bank operates.
 
 ## Technologies
 Project is created with:
